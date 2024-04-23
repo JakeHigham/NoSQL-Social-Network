@@ -1,0 +1,20 @@
+{
+    "name": "nosql-social-media",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/JakeHigham/NoSQL-Social-Network"
+    },
+    "homepage": "https://github.com/JakeHigham/NoSQL-Social-Network#readme", 
+    "dependencies": {
+      "express": "^4.19.2",
+      "mongoose": "^8.3.2"
+    }
+  }
